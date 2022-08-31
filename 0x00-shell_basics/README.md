@@ -1,1 +1,1 @@
-script that prints the type of the file named 
+a symbolic link to /bin/ls
