@@ -5,3 +5,4 @@ Display the content of the /etc/passwd file.
 Display the content of /etc/passwd and /etc/hosts
 Display the first ones actually
  a script that displays the third line of the file iacta.
+Write a shell script that creates a file named exactly
