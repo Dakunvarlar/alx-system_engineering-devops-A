@@ -11,3 +11,4 @@ Write a script that duplicates the last line of the file iacta
 a script that deletes all the regular files
 Write a script that counts the number of directories and sub-directories in the current directory.
 a script that displays the 10 newest files in the current directory
+a script that takes a list of words as input and prints only words that appear exactly once.
