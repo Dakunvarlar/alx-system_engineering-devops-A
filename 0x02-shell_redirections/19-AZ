@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -r 's/*A*,*c*/*Z*,*e*/g' 
+read -p '$A' '$c' | 'Z' 'e' -o 

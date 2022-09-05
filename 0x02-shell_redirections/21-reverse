@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -r -o *
+rev 
