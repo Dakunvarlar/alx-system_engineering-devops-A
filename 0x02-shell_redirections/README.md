@@ -7,3 +7,5 @@ Display the first ones actually
  a script that displays the third line of the file iacta.
 Write a shell script that creates a file named exactly
  a script that writes into the file
+Write a script that duplicates the last line of the file iacta
+a script that deletes all the regular files
