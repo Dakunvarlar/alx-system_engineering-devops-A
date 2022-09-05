@@ -9,3 +9,4 @@ Write a shell script that creates a file named exactly
  a script that writes into the file
 Write a script that duplicates the last line of the file iacta
 a script that deletes all the regular files
+Write a script that counts the number of directories and sub-directories in the current directory.
