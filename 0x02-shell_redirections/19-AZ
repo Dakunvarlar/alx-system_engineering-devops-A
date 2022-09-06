@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p '$A' '$c' | 'Z' 'e' -o 
+cat /dev/stdin | tr ‘A’ ‘Z’ | tr ‘c’ ‘e’
